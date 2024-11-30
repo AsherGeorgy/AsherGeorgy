@@ -1,16 +1,30 @@
-- 👋 Hi there! I'm Asher. 
+# Hi there, I'm Asher 👋
 
-- 📊 Coming from a background in finance and accounting, I initially stumbled into the realm of programming through Excel, when I wanted to create a tool that could predict EPL and NBA scores, as well as individual performances. Starting from the basics of Excel, I soon discovered the power of macros to automate repetitive tasks. This not only expanded my Excel skills but also further fueled my interest in programming and data analysis. I soon began using it to plan out various everyday tasks and short and long term goals.
+I'm a finance professional turned tech enthusiast with a passion for leveraging technology to solve real-world challenges.
 
-- 🎓 While pursuing a career in finance, I recognized the immense potential in combining it with technology and big data. This realization prompted me to explore online data analysis certificates, delving into tools like SQL and R.
+## 🚀 My Journey
 
-- 🐍 Currently, I'm immersed in learning Python for financial modeling and analysis.
+My journey into programming started unexpectedly. It all began when I wanted to create a tool to predict EPL and NBA scores using Excel. Starting with the basics, I quickly discovered the power of Excel macros to automate repetitive tasks. This not only expanded my skills but also sparked an excitement for technology. Soon, I began using Excel to plan everyday tasks, as well as my short- and long-term personal development goals. Creating automated spreadsheets for personal use (like time management, to-do lists, trip expense planning, etc.) became a hobby I genuinely enjoyed.
 
-- 💡 I'm passionate about leveraging technology to streamline processes and solve real-world challenges. Thank you for joining me on this adventure.
+While pursuing a career in finance, I realized the huge potential of combining finance with technology and big data. While finance was interesting, using technology to create financial models was truly exciting. This led me to dive into Python and SQL, as well as data visualization tools like Tableau and Power BI, all through free online resources. I also picked up the basics of HTML and CSS for web development, which allowed me to build and host my personal website on GitHub Pages.
 
-- 📫 Contact georgy.asher@gmail.com
+I'm passionate about using technology to streamline processes and solve real-world problems. 
 
-<!---
-AsherGeorgy/AsherGeorgy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you're here, welcome!
+
+## 🔧 Skills & Tools
+
+- **Programming:** Python, SQL
+- **Data Analysis & Visualization:** Tableau, Power BI
+- **Web Development:** HTML, CSS
+- **Version Control:** Git
+- **Machine Learning:** Currently learning the basics with Python (scikit-learn)
+
+## 🌱 What I'm Learning Now
+
+I'm currently diving deeper into **Machine Learning** with Python, Stanford CS229, and exploring more advanced statistical concepts.
+
+## 📬 Contact
+
+Feel free to reach out:  
+📧 asher.georgy@outlook.com
