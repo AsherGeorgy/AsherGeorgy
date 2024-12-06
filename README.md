@@ -4,15 +4,15 @@ I'm a finance professional turned tech enthusiast with a keen interest in buildi
 
 ## My Journey 
 
-### The Beginning: Exploring Excel 
+### The Beginning: Exploring Excel 🖥️
 
 My journey into programming began when I sought to track EPL and NBA scores using Excel. Starting with the basics, I quickly discovered the power of recording Excel macros to automate repetitive tasks. This not only expanded my skills but also sparked an excitement for technology. <br><br>
 
-### Turning a Hobby into a Passion 
+### Turning a Hobby into a Passion 🔥
 
 Soon, I began using Excel to plan everyday tasks, as well as my short- and long-term personal development goals. Creating automated spreadsheets for personal use (like time management, to-do lists, trip expense planning, etc.) became a hobby I genuinely enjoyed. <br><br>
 
-### Combining Finance with Technology  
+### Combining Finance with Technology 💼
 
 While pursuing a career in finance, I realized the huge potential of combining finance with technology and big data. While finance was interesting, using technology to create financial models was truly exciting. <br>
 
