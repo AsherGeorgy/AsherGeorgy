@@ -16,7 +16,7 @@ Soon, I began using Excel to plan everyday tasks, as well as my short- and long-
 
 While pursuing a career in finance, I realized the huge potential of combining finance with technology and big data. While finance was interesting, using technology to create financial models was truly exciting. <br>
 
-This led me to explore advanced Excel, and eventually dive into Python, SQL, and data visualization tools like Tableau and Power BI, all through free online resources. I also picked up the basics of HTML and CSS for web development, which allowed me to build and host my personal website on GitHub Pages. I recently launched [my first web app](https://optimize-this-portfolio.streamlit.app/)  on streamlit.<br><br>
+This led me to explore advanced Excel, and eventually dive into Python, SQL, and data visualization tools like Tableau and Power BI, all through free online resources. I also picked up the basics of HTML and CSS for web development, which allowed me to build and host my [personal website](https://ashergeorgy.github.io) on GitHub Pages. I recently launched [my first web app](https://optimize-this-portfolio.streamlit.app/)  on streamlit.<br><br>
 
 ## What I Do Now  
 
@@ -28,7 +28,6 @@ I'm currently diving deeper into **Machine Learning** with Python, **Stanford CS
 - **Data Analysis & Visualization:** Tableau, Power BI
 - **Web Development:** HTML, CSS
 - **Version Control:** Git
-- **Machine Learning:** Currently learning the basics with Python (scikit-learn)
 
 ## Contact 📬 
 
