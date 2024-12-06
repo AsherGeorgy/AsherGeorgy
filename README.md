@@ -1,6 +1,6 @@
 # Hi there, I'm Asher 
 
-I'm a finance professional turned tech enthusiast with a passion for leveraging technology to solve real-world challenges.
+I'm a finance professional turned tech enthusiast with a keen interest in building models that streamline real-world challenges.
 
 ## 🚢 My Journey
 
@@ -18,10 +18,9 @@ While pursuing a career in finance, I realized the huge potential of combining f
 
 This led me to explore advanced Excel, and eventually dive into Python, SQL, and data visualization tools like Tableau and Power BI, all through free online resources. I also picked up the basics of HTML and CSS for web development, which allowed me to build and host my personal website on GitHub Pages. <br><br>
 
-### 🚀 What I'm Doing Now
+### 🚀 What I Do Now
 
 I'm currently diving deeper into **Machine Learning** with Python, **Stanford CS229**, and exploring more advanced statistical concepts.   
-I'm passionate about using technology to streamline processes and solve real-world problems. 
 
 ## 🔧 Skills & Tools
 
